@@ -1,0 +1,45 @@
+.Container {
+  display: inline-flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.Post {
+  margin: auto;
+  width: 100%;
+  height: 60%;
+  display: inline-flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.Post-header {
+  margin: auto;
+  width: 100%;
+  height: 40%;
+  text-align: left;
+}
+
+.Post-header-username {
+  margin: auto;
+  width: 100%;
+  height: 20%;
+}
+
+.Post-header-caption {
+  margin: auto;
+  width: 100%;
+  height: 20%;
+}
+
+.Post-image {
+  margin: auto;
+  width: 100%;
+  height: 60%;
+}
+
+.Comments {
+  margin: auto;
+  width: 100%;
+  height: 30%;
+}

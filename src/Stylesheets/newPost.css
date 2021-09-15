@@ -1,0 +1,9 @@
+.Form-header {
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
